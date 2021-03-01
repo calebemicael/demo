@@ -1,9 +1,6 @@
-/*
 #include <stdio.h>
 
 int main(void) {
-  printf("Olá Mundo!\n");
+  printf("Sem spoiler!\n");
   return 0;
 }
-
-*/
